@@ -1,7 +1,5 @@
-# PriMeSRL-Eval: A Practical Quality Metric for Semantic Role Labeling Systems Evaluation
-
-This repository contains the code for the paper:
-- `PriMeSRL-Eval: A Practical Quality Metric for Semantic Role Labeling Systems Evaluation`
+# PriMeSRL-Eval
+This repository contains the code for the paper [PriMeSRL-Eval: A Practical Quality Metric for Semantic Role Labeling Systems Evaluation](https://arxiv.org/abs/2210.06408)
 
 We have our proposed evaluation of SRL quality and the official evaluation
 from the CoNLL2005 (span evaluation) and CoNLL2009 (head evaluation). We use an
@@ -17,8 +15,8 @@ We have the following pipelines:
     - CoNLL2005: https://catalog.ldc.upenn.edu/LDC99T42 and https://www.cs.upc.edu/~srlconll/soft.html
     - CoNLL2009: https://catalog.ldc.upenn.edu/LDC2012T04 and https://ufal.mff.cuni.cz/conll2009-st/eval-data.html
 - Download the data from LDC and store under `/data` repository
-- We support reading data in CoNLL09, CoNLLUS and CONLLu formats. Any format get converted into our
-CoNLL-U format for futher processing. We will provide code for conversion from CoNLL05 to our
+- We currently support reading data in CoNLL09, CoNLLus and CONLLu formats. Any format get converted into our
+CoNLL-U format for comparison. We will provide code for conversion from CoNLL05 to our
 CoNLL-U format so that the community can use our proposed evaluation and compare
 to the official evaluations.
 
@@ -29,7 +27,8 @@ to the official evaluations.
     - `conda create -n eval python=3.9`
     - `conda activate eval`
 - Install requirements: `pip install -r requirements.txt`
-- (Optional) Verify unit tests (takes about 2 mins): `pytest tests`
+- (Recommended) Verify unit tests (takes about 2 mins): `pytest tests`
+    - It downloads the conll09 and conll05 evaluation scripts.
 - Run evaluation script:
     - `python run_evaluations.py --gold-conllu <file> --pred-conllu <file> --format <str>--output-folder <folder>`
       - `--format` can take following values: `[conll09, conll05, conllu]`
