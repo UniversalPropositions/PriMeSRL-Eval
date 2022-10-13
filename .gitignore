@@ -1,3 +1,26 @@
+# CoNLL eval scripts
+
+src/conll/conll2005/srl-eval.pl
+src/conll/conll2009/eval09.pl
+
+
+# Script outputs
+
+tmp/
+
+
+# MacOS
+
+.DS_Store
+*.swp
+
+
+# PyCharm
+
+.idea/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
