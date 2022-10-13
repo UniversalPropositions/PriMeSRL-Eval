@@ -74,18 +74,16 @@ interesting error combinations, please open an  issue for discussion and any
 subsequent PR.
 
 
-## Contact (To add)
-
-
-
 ## Citation
 
 ```bibtex
-@inproceedings{,
-    author = {author},
-    title = {title},
-    booktitle = {booktitle},
-    year = {year},
+@misc{jindal2022primesrleval,
+    title={PriMeSRL-Eval: A Practical Quality Metric for Semantic Role Labeling Systems Evaluation},
+    author={Ishan Jindal and Alexandre Rademaker and Khoi-Nguyen Tran and Huaiyu Zhu and Hiroshi Kanayama and Marina Danilevsky and Yunyao Li},
+    year={2022},
+    eprint={2210.06408},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
 }
 ```
 
