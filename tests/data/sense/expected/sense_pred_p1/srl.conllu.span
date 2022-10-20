@@ -1,0 +1,9 @@
+# 0 # Yesterday, John bought a car.
+1	Yesterday	yesterday	NOUN	NN	Number=Sing	4	obl	_	_	AM-TMP	0	9
+2	,	,	PUNCT	,	_	4	punct	_	_	_	9	10
+3	John	John	PROPN	NNP	Number=Sing	4	nsubj	_	_	A0	11	15
+4	bought	buy	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	Y	buy_out.03	_	16	22
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_	_	23	24
+6	car	car	NOUN	NN	Number=Sing	4	obj	_	_	A1	25	28
+7	.	.	PUNCT	.	_	4	punct	_	_	_	28	29
+

@@ -1,0 +1,11 @@
+# text = This is exactly a road that leads nowhere .
+1	This	this	PRON	DT	_	5	nsubj	_	_	_
+2	is	be	VERB	VBZ	_	5	cop	_	_	_
+3	exactly	exactly	ADV	RB	_	5	advmod	_	_	_
+4	a	a	DET	DT	_	5	det	_	_	A0
+5	road	road	NOUN	NN	_	0	root	_	_	_
+6	that	that	PRON	WDT	_	7	nsubj	_	_	R-A0
+7	leads	lead	VERB	VBZ	_	5	acl:relcl	Y	lead.01	_
+8	nowhere	nowhere	ADV	RB	_	7	advmod	_	_	A4
+9	.	.	PUNCT	.	_	5	punct	_	_	_
+

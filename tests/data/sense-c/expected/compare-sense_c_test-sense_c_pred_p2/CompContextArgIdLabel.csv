@@ -1,0 +1,2 @@
+sentence_id,pred_spanbegin,pred_spanend,pred_spantext,contextSpan_e_spanbegin,contextSpan_e_spanend,contextSpan_e_spantext,contextHead_e_spanbegin,contextHead_e_spanend,contextHead_e_spantext,type_e_value,contextSpan_a_spanbegin,contextSpan_a_spanend,contextSpan_a_spantext,contextHead_a_spanbegin,contextHead_a_spanend,contextHead_a_spantext,type_a_value,comparison_label_auto
+0,35.0,41.0,taxing,50.0,59.0,for years,54.0,59.0,years,AM-TMP,50.0,59.0,for years,54.0,59.0,years,AM-TMP,Correct

@@ -1,0 +1,8 @@
+1	Yesterday	yesterday	yesterday	NOUN	NN	_	_	4	4	obl	obl	_	_	AM-TMP
+2	,	,	,	PUNCT	,	_	_	4	4	punct	punct	_	_	_
+3	John	John	John	PROPN	NNP	_	_	4	4	nsubj	nsubj	_	_	A0
+4	bought	buy	buy	VERB	VBD	_	_	0	0	root	root	Y	sell.01	_
+5	a	a	a	DET	DT	_	_	6	6	det	det	_	_	_
+6	car	car	car	NOUN	NN	_	_	4	4	obj	obj	_	_	A1
+7	.	.	.	PUNCT	.	_	_	4	4	punct	punct	_	_	_
+

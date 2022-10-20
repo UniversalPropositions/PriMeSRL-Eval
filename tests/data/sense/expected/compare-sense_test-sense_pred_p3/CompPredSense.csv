@@ -1,0 +1,2 @@
+sentence_id,pred_spanbegin,pred_spanend,pred_spantext,e_predsense,a_predsense,comparison_label_auto
+0,16.0,22.0,bought,buy.01,sell.01,Incorrect

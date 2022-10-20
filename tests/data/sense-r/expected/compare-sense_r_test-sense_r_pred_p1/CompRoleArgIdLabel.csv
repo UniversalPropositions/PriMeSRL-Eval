@@ -1,0 +1,5 @@
+sentence_id,pred_spanbegin,pred_spanend,pred_spantext,roleSpan_e_spanbegin,roleSpan_e_spanend,roleSpan_e_spantext,roleHead_e_spanbegin,roleHead_e_spanend,roleHead_e_spantext,type_e_value,roleSpan_a_spanbegin,roleSpan_a_spanend,roleSpan_a_spantext,roleHead_a_spanbegin,roleHead_a_spanend,roleHead_a_spantext,type_a_value,comparison_label_auto
+0,28.0,33.0,leads,0.0,22.0,This is exactly a road,18.0,22.0,road,A0,0.0,22.0,This is exactly a road,18.0,22.0,road,A1,SameSpanDiffValue
+0,28.0,33.0,leads,0.0,27.0,that This is exactly a road,18.0,27.0,that road,R-A0A0,,,,,,,,Missing
+0,28.0,33.0,leads,34.0,41.0,nowhere,34.0,41.0,nowhere,A4,34.0,41.0,nowhere,34.0,41.0,nowhere,A4,Correct
+0,28.0,33.0,leads,,,,,,,,23.0,27.0,that,23.0,27.0,that,R-A0_,Spurious

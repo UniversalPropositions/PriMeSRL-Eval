@@ -1,0 +1,6 @@
+Metric,Type,Correct,Incorrect,Missing,Spurious,SameValueDiffSpan,SameSpanDiffValue,SameHeadSameValueDiffSpan,SameValueSameSpanDiffHead,Precision,Recall,F1,Accuracy
+proposed,PredicateId,1,0,0,0,0,0,0,0,1.0,1.0,1.0,1.0
+proposed,Predicate,1,0,0,0,0,0,0,0,1.0,1.0,1.0,1.0
+proposed,ArgumentHead,2,0,1,1,0,0,0,0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5
+proposed,CoreArgHead,2,0,1,1,0,0,0,0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5
+proposed,ContextArgHead,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0

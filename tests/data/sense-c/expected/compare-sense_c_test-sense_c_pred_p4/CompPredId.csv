@@ -1,0 +1,4 @@
+sentence_id,e_pred_spanbegin,e_pred_spanend,e_pred_spantext,a_pred_spanbegin,a_pred_spanend,a_pred_spantext,comparison_label_auto
+0,25.0,29.0,have,25.0,29.0,have,Correct
+0,30.0,34.0,been,30.0,34.0,been,Correct
+0,35.0,41.0,taxing,35.0,41.0,taxing,Correct

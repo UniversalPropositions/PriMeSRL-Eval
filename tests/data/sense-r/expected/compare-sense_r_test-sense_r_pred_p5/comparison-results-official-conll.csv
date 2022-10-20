@@ -1,0 +1,5 @@
+index,Metric,Type,Correct,Spurious,Missing,Precision,Recall,F1
+0,conll09-head,PredicateId,1,0,0,1.0,1.0,1.0
+1,conll09-head,Predicate,0,0,0,1.0,1.0,0.9999999500000026
+2,conll09-head,ArgumentHead,0,0,0,0.6666666666666666,0.6666666666666666,0.6666666166666704
+0,conll05-span,ArgumentSpan,1,1,2,0.5,0.3333,0.4

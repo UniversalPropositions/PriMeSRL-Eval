@@ -1,0 +1,3 @@
+sentence_id,pred_spanbegin,pred_spanend,pred_spantext,roleSpan_e_spanbegin,roleSpan_e_spanend,roleSpan_e_spantext,roleHead_e_spanbegin,roleHead_e_spanend,roleHead_e_spantext,type_e_value,roleSpan_a_spanbegin,roleSpan_a_spanend,roleSpan_a_spantext,roleHead_a_spanbegin,roleHead_a_spanend,roleHead_a_spantext,type_a_value,comparison_label_auto
+0,16.0,22.0,bought,11.0,15.0,John,11.0,15.0,John,A0,11.0,15.0,John,11.0,15.0,John,A0,Correct
+0,16.0,22.0,bought,23.0,28.0,a car,25.0,28.0,car,A1,23.0,28.0,a car,25.0,28.0,car,A1,Correct

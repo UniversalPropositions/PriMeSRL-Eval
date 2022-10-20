@@ -1,0 +1,10 @@
+1	This	this	this	PRON	DT	_	_	5	5	nsubj	nsubj	_	_	_
+2	is	be	be	VERB	VBZ	_	_	5	5	cop	cop	_	_	_
+3	exactly	exactly	exactly	ADV	RB	_	_	5	5	advmod	advmod	_	_	_
+4	a	a	a	DET	DT	_	_	5	5	det	det	_	_	_
+5	road	road	road	NOUN	NN	_	_	0	0	root	root	_	_	R-A0
+6	that	that	that	PRON	WDT	_	_	7	7	nsubj	nsubj	_	_	R-A0
+7	leads	lead	lead	VERB	VBZ	_	_	5	5	acl:relcl	acl:relcl	Y	lead.01	_
+8	nowhere	nowhere	nowhere	ADV	RB	_	_	7	7	advmod	advmod	_	_	A4
+9	.	.	.	PUNCT	.	_	_	5	5	punct	punct	_	_	_
+

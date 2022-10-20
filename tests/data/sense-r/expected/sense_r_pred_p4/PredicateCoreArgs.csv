@@ -1,0 +1,4 @@
+Document label,aid,verb,verbSpan,verbSense,id,roleHead,roleSpan,type
+0,1,"(28,33,leads)","(28,33,leads)",lead.01,0,"(16,17,a)","(16,17,a)",A0
+0,1,"(28,33,leads)","(28,33,leads)",lead.01,1,"(16,27,that a)","(16,27,that a)",R-A0A0
+0,1,"(28,33,leads)","(28,33,leads)",lead.01,2,"(34,41,nowhere)","(34,41,nowhere)",A4

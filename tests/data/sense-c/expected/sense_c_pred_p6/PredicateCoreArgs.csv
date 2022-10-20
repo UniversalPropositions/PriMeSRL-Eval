@@ -1,0 +1,3 @@
+Document label,aid,verb,verbSpan,verbSense,id,roleHead,roleSpan,type
+0,5,"(35,41,taxing)","(35,41,taxing)",tax.01,0,"(15,71,questions Egypt)","(0,86,Many confusing questions about Egypt and its people)",A0
+0,5,"(35,41,taxing)","(35,41,taxing)",tax.01,1,"(45,49,mind)","(42,49,my mind)",A2

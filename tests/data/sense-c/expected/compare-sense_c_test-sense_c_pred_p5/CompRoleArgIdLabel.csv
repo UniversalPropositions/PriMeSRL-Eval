@@ -1,0 +1,4 @@
+sentence_id,pred_spanbegin,pred_spanend,pred_spantext,roleSpan_e_spanbegin,roleSpan_e_spanend,roleSpan_e_spantext,roleHead_e_spanbegin,roleHead_e_spanend,roleHead_e_spantext,type_e_value,roleSpan_a_spanbegin,roleSpan_a_spanend,roleSpan_a_spantext,roleHead_a_spanbegin,roleHead_a_spanend,roleHead_a_spantext,type_a_value,comparison_label_auto
+0,35.0,41.0,taxing,0.0,86.0,Many confusing questions about Egypt and its people,15.0,71.0,questions Egypt,A0,0.0,24.0,Many confusing questions,15.0,24.0,questions,A1,Missing
+0,35.0,41.0,taxing,42.0,49.0,my mind,45.0,49.0,mind,A2,42.0,86.0,my mind about Egypt and its people,45.0,71.0,mind Egypt,A2,SameValueDiffSpan
+0,35.0,41.0,taxing,0.0,86.0,Many confusing questions about Egypt and its people,15.0,71.0,questions Egypt,A0,0.0,24.0,Many confusing questions,15.0,24.0,questions,A1,Spurious

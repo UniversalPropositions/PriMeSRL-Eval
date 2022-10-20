@@ -1,0 +1,18 @@
+# 0 # Many confusing questions have been taxing my mind for years about Egypt and its people .
+1	Many	many	ADJ	JJ	_	3	amod	_	_	_	_	_	0	4
+2	confusing	confusing	ADJ	JJ	_	3	amod	_	_	_	_	_	5	14
+3	questions	question	NOUN	NNS	_	6	nsubj	_	_	_	_	A1	15	24
+4	have	have	AUX	VBP	_	6	aux	Y	have.01	_	_	_	25	29
+5	been	be	AUX	VBN	_	6	aux	Y	be.03	_	_	_	30	34
+6	taxing	tax	VERB	VBG	_	0	root	Y	tax.01	_	_	_	35	41
+7	my	my	PRON	PRP$	_	8	nmod:poss	_	_	_	_	_	42	44
+8	mind	mind	NOUN	NN	_	6	obj	_	_	_	_	A2	45	49
+9	for	for	ADP	IN	_	10	case	_	_	_	_	_	50	53
+10	years	year	NOUN	NNS	_	6	obl	_	_	_	_	AM-TMP	54	59
+11	about	about	ADP	IN	_	12	case	_	_	_	_	_	60	65
+12	Egypt	Egypt	PROPN	NNP	_	6	obl	_	_	_	_	C-A1	66	71
+13	and	and	CCONJ	CC	_	15	cc	_	_	_	_	_	72	75
+14	its	its	PRON	PRP$	_	15	nmod:poss	_	_	_	_	_	76	79
+15	people	people	NOUN	NNS	_	12	conj	_	_	_	_	_	80	86
+16	.	.	PUNCT	.	_	6	punct	_	_	_	_	_	87	88
+

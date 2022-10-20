@@ -1,0 +1,4 @@
+Document label,aid,verb,verbSpan,verbSense,id,roleHead,roleSpan,type
+0,1,"(28,33,leads)","(28,33,leads)",lead.01,0,"(18,27,that road)","(0,27,that This is exactly a road)",A0R-A0
+0,1,"(28,33,leads)","(28,33,leads)",lead.01,1,"(23,27,that)","(23,27,that)",A0
+0,1,"(28,33,leads)","(28,33,leads)",lead.01,2,"(34,41,nowhere)","(34,41,nowhere)",A4

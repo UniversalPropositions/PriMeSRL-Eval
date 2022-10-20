@@ -1,0 +1,17 @@
+1	Many	many	many	ADJ	JJ	_	_	3	3	amod	amod	_	_	_	_	_
+2	confusing	confusing	confusing	ADJ	JJ	_	_	3	3	amod	amod	_	_	_	_	_
+3	questions	question	question	NOUN	NNS	_	_	6	6	nsubj	nsubj	_	_	_	_	C-A0
+4	have	have	have	AUX	VBP	_	_	6	6	aux	aux	Y	have.01	_	_	_
+5	been	be	be	AUX	VBN	_	_	6	6	aux	aux	Y	be.03	_	_	_
+6	taxing	tax	tax	VERB	VBG	_	_	0	0	root	root	Y	tax.01	_	_	_
+7	my	my	my	PRON	PRP$	_	_	8	8	nmod:poss	nmod:poss	_	_	_	_	_
+8	mind	mind	mind	NOUN	NN	_	_	6	6	obj	obj	_	_	_	_	A2
+9	for	for	for	ADP	IN	_	_	10	10	case	case	_	_	_	_	_
+10	years	year	year	NOUN	NNS	_	_	6	6	obl	obl	_	_	_	_	AM-TMP
+11	about	about	about	ADP	IN	_	_	12	12	case	case	_	_	_	_	_
+12	Egypt	Egypt	Egypt	PROPN	NNP	_	_	6	6	obl	obl	_	_	_	_	_
+13	and	and	and	CCONJ	CC	_	_	15	15	cc	cc	_	_	_	_	_
+14	its	its	its	PRON	PRP$	_	_	15	15	nmod:poss	nmod:poss	_	_	_	_	_
+15	people	people	people	NOUN	NNS	_	_	12	12	conj	conj	_	_	_	_	_
+16	.	.	.	PUNCT	.	_	_	6	6	punct	punct	_	_	_	_	_
+

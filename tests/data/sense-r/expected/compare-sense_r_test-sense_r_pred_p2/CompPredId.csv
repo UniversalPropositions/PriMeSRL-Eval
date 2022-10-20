@@ -1,0 +1,2 @@
+sentence_id,e_pred_spanbegin,e_pred_spanend,e_pred_spantext,a_pred_spanbegin,a_pred_spanend,a_pred_spantext,comparison_label_auto
+0,28.0,33.0,leads,28.0,33.0,leads,Correct
