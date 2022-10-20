@@ -23,7 +23,7 @@ if __name__ == '__main__':
     gold_conllu_fp = args.gold_conllu
     pred_conllu_fp = args.pred_conllu
     output_folder = args.output_folder
-    file_format = args.format = "conll09"
+    file_format = args.format
 
     cols = ['Metric', 'Type', 'Precision', 'Recall', 'F1']
 
@@ -42,11 +42,13 @@ if __name__ == '__main__':
     elif file_format in ["2005", "05", "conll2005", "conll05"]:
         gold_conllu_fp = gold_conllu_fp + ".conllu"
         pred_conllu_fp = pred_conllu_fp + ".conllu"
+        raise Exception("Sorry, no converter for conll05 files")
     elif file_format in ["conllu"]:
         gold_conllu_fp = gold_conllu_fp
         pred_conllu_fp = pred_conllu_fp
     else:
         logger.error("Conversion format not recognized: %s", file_format)
+        raise Exception("Sorry, no converter for {} files".format(file_format))
 
     df_c = official_conll_evaluation(gold_conllu_fp, pred_conllu_fp, output_folder)
     df_p = proposed_evaluation(gold_conllu_fp, pred_conllu_fp, output_folder)
