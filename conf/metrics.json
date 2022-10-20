@@ -1,0 +1,8 @@
+{
+  "proposed": {
+    "tp": ["Correct", "SameHeadSameValueDiffSpan"],
+    "fn": ["Missing", "SameValueSameSpanDiffHead", "SameValueDiffSpan", "SameSpanDiffValue"],
+    "fp": ["Incorrect", "Spurious", "SameValueSameSpanDiffHead", "SameValueDiffSpan", "SameSpanDiffValue"],
+    "tn": []
+  }
+}
