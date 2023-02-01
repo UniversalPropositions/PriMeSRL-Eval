@@ -1,5 +1,5 @@
 # PriMeSRL-Eval
-This repository contains the code for the paper [PriMeSRL-Eval: A Practical Quality Metric for Semantic Role Labeling Systems Evaluation](https://arxiv.org/abs/2210.06408)
+This repository contains the code for the EACL 2023 Findings paper [PriMeSRL-Eval: A Practical Quality Metric for Semantic Role Labeling Systems Evaluation](https://arxiv.org/abs/2210.06408)
 
 We have our proposed evaluation of SRL quality and the official evaluation
 from the CoNLL2005 (span evaluation) and CoNLL2009 (head evaluation). We use an
