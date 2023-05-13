@@ -301,7 +301,7 @@ class ReadData():
         tok_lines = self.read_file()
         count_sen = 0
         for tok_line in tok_lines:
-            if tok_line == "\n" or tok_line == "---\n" or tok_line == "\r\n":
+            if tok_line == "---\n" or tok_line.strip() == "":
                 if sen != []:
                     chunk = SenChunk(sen, count_sen, self.col_names, self.data_format)
                     if sen_dict:
